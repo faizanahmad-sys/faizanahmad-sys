@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faizan Ahmad
+## 👋 Hi, I'm Faizan Ahmad
 
 🎓 Software Engineering Student
 💻 Problem Solver | Web Developer | Future Blockchain Engineer
