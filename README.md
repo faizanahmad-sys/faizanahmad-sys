@@ -19,9 +19,11 @@
 
 * 💻 C++ (Problem Solving & Debugging)
 * 🌐 HTML5, CSS3
-* ⚡ JavaScript (Basics)
+* ⚡ JavaScript (Advance)
 * 🧠 Data Structures & Algorithms (Basic)
+*  python (stronge)
 * 🔧 Git & GitHub
+  
 
 ---
 
@@ -37,7 +39,8 @@
 
 * Advanced JavaScript (DOM, Events)
 * DSA (Arrays, Strings, Recursion)
-* Solidity (Smart Contracts)
+* React(forentend)
+* MYSQL
 
 ---
 
