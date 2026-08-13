@@ -1,76 +1,35 @@
 ## 👋 Hi, I'm Faizan Ahmad
 
 🎓 Software Engineering Student
-💻 Problem Solver | Web Developer | Future Blockchain Engineer
-🚀 Passionate about building real-world projects
+*   Problem Solver | Full Stack Developer 
+*   Passionate about building real-world projects
 
 ---
 
 ## 🧠 About Me
 
-* 💡 Strong in C++ Problem Solving & Debugging
-* 🌱 Currently learning: JavaScript, DSA & Web Development
-* 🔗 Interested in: Blockchain & Web3 Development
-* 🎯 Goal: Become a Skilled Software Engineer & Freelancer
+I'm a passionate Full Stack Web Developer with hands-on experience in building modern, responsive, and scalable web applications. I specialize in the MERN Stack (MongoDB, Express, React, Node.js) along with Next.js, TypeScript, and Tailwind CSS. I love turning ideas into clean, functional code and creating seamless user experiences from frontend to backend.
 
 ---
 
 ## 🛠️ Skills
 
-* 💻 C++ (Problem Solving & Debugging)
-* 🌐 HTML5, CSS3
-* ⚡ JavaScript (Advance)
-* 🧠 Data Structures & Algorithms (Basic)
-*  python (stronge)
-* 🔧 Git & GitHub
-  
+* Frontend: HTML • CSS • JS • React • Next.js • Tailwind
+* Backend: Node.js • Express • Python • REST APIs
+* Database: MongoDB • PostgreSQL • Redis
+* Tools: Git • Docker • AWS • 
 
 ---
 
-## ⚙️ Tools & Technologies
-
-* 🖥️ VS Code
-* 🔗 Git & GitHub
-* 🌐 Chrome DevTools
-
----
 
 ## 📚 Currently Learning
 
-* Advanced JavaScript (DOM, Events)
 * DSA (Arrays, Strings, Recursion)
-* React(forentend)
-* MYSQL
+* Docker • AWS 
+
 
 ---
 
-## 🚀 Projects
-
-* 🌐 Portfolio Website (In Progress)
-* 📱 Responsive Web Pages
-* 🧠 C++ Problem Solving Codes
-* 🔗 Web3 Projects (Coming Soon)
-
----
-
-## 🏆 Strengths
-
-* 🔍 Debugging Skills
-* 🧠 Logical Thinking
-* ⚡ Fast Learner
-* 💪 Consistency & Hard Work
-
----
-
-## 🎯 Goals for 2026
-
-* ✅ Master DSA
-* ✅ Build 10+ Projects
-* ✅ Learn Full Stack Development
-* ✅ Start Freelancing
-* ✅ Contribute to Open Source
-
----
 
 ## 📫 Connect With Me
 
